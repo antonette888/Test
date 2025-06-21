@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emergency Contact & Lost and Found</title>
+    <style>
+        body {
+			font-family: Arial, sans-serif;
+			margin: 20px;
+			line-height: 1.6;
+			background-image: url("https://wallpapers.com/images/hd/black-aesthetic-background-e4zxn02rqejtecw5.jpg");
+			background-size: cover;
+			background-position: center;
+			background-repeat: no-repeat;
+			color: white;
+			text-align: center;
+		}
+
+        .content {
+            max-width: 500px;
+            margin: auto;
+            background: #151414;
+            padding: 20px;
+            color: white;
+            border-radius: 8px;
+        }
+        .address {
+        font-size: 14px; /* Adjust this value as needed */
+        }
+        .social-link {
+            margin-top: 20px;
+        }
+        .social-link img {
+            width: 50px;
+            height: 50px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Emergency Contact & Lost and Found</h1>
+        <p>This webpage is intended for emergency contact purposes and for reporting lost and found items. Please do not use it for any other purposes.</p>
+    </header>
+
+    <div class="content">
+        <section class="contact-info">
+            <h2>Contact Information</h2>
+            <p><strong>Email:</strong> aamieclaire@gmail.com<br> deluneac@gmail.com</p>
+            <p><strong>Mobile No.:</strong> 09222145738</p>
+            <p class="address"><strong>Provincial Address:</strong> Villacarlos St. Street, Putok Sambag 1, Atop-atop, Bantayan, Cebu, Philippines</p>
+        </section>
+
+        <section class="links">
+            <h2>Connect with Me</h2>
+            <div class="social-link">
+                <a href="https://www.facebook.com/amie.claire.arriola" target="_blank">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo">
+                </a>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Amie Claire Q. Arriola. Unauthorized use or reproduction of this content is prohibited.</p>
+    </footer>
+</body>
+</html>
